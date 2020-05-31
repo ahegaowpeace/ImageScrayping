@@ -1,6 +1,7 @@
 # nhentai_scrayping
 ## useage
-```$ python3.6 image.py アンスリウム202012 https://www.google.co.jp/hoge/moge 499
+```
+$ python3.6 image.py アンスリウム202012 https://www.google.co.jp/hoge/moge 499
 ```
 ## 概要
 - nhentai用スクリプト
