@@ -4,7 +4,7 @@
 import os
 import sys
 import shutil
-p = '【contentsディレクトリパス】'
+p = './contents/'
 foldername = sys.argv[1]
 path = p + foldername
 os.makedirs(path)
